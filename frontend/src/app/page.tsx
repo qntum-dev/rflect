@@ -40,7 +40,7 @@ const Page = () => {
     {
       name: "Shriyans Mukherjee",
       image: "https://res.cloudinary.com/qntum/image/upload/v1753333633/profile_images/profile_images/77641655-d8ab-4611-93ac-f07c1a49cc94-lk68zn.jpg",
-      link: "https://www.linkedin.com/in/shriyansmukherjee/",
+      link: "https://portfolio-six-mocha-83.vercel.app/",
     },
     // add more as needed
   ];
@@ -127,7 +127,8 @@ const Page = () => {
         <div className="md:flex items-center gap-6 text-sm lg:text-base hidden md:pointer-events-auto">
           <a href="https://www.linkedin.com/in/pritammondal-dev/" target="_blank" rel="noopener noreferrer" className="hover:text-white/70 transition-colors">About Me</a>
           <a href="#techstack" className="hover:text-white/70 transition-colors">Tech Stack</a>
-          <a target="_blank" href="https://wa.me/916291258816" className="hover:text-white/70 transition-colors">Contact</a>
+          <a href="https://github.com/qntum-dev/rflect" className="hover:text-white/70 transition-colors" target="_blank">Code Repo</a>
+          <a target="_blank" href="https://wa.me/916291258816" className="hover:text-white/70 transition-colors">Contact Me</a>
         </div>
 
         <div className="flex items-center gap-2">
@@ -172,15 +173,25 @@ const Page = () => {
               href="https://www.linkedin.com/in/pritammondal-dev/"
               target="_blank"
               rel="noopener noreferrer"
-              className="hover:text-white/70 transition-colors"
+              className="shover:text-white/70 transition-colors"
             >
               About Me
             </a>
             <a
               href="#blog"
+              target="_blank"
+              rel="noopener noreferrer"
               className="hover:text-white/70 transition-colors"
             >
               Tech Stack
+            </a>
+            <a
+              href="https://github.com/qntum-dev/rflect"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white/70 transition-colors"
+            >
+              Code Repo
             </a>
             <a
               href="https://wa.me/916291258816"
