@@ -36,6 +36,9 @@
 - [Postgres](https://www.postgresql.org/)
 - [Cloudinary](https://cloudinary.com/)
 
+## ⚡ Tools Used
+
+<img src="https://res.cloudinary.com/qntum/image/upload/v1753381062/Screenshot_2025-07-24_234725_kwmxx9.png" width="1200" alt="Tech Stack Image">
 
 ## 📸 Screenshots
 
