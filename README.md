@@ -10,7 +10,6 @@
   <a href="https://www.linkedin.com">Linkedin</a>
 </p>
 
----
 
 ## ✨ Features
 
@@ -19,7 +18,6 @@
 * ✅ Image upload via Cloudinary
 * ✅ Light/dark mode support
 
----
 
 ## 🛠️ Tech Stack
 
@@ -38,7 +36,6 @@
 - [Postgres](https://www.postgresql.org/)
 - [Cloudinary](https://cloudinary.com/)
 
----
 
 ## 📸 Screenshots
 
