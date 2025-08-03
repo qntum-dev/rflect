@@ -38,14 +38,14 @@
 
 ## ⚡ Tools Used
 
-<img src="https://res.cloudinary.com/qntum/image/upload/v1753381062/Screenshot_2025-07-24_234725_kwmxx9.png" width="1200" alt="Tech Stack Image">
+<img src="https://res.cloudinary.com/qntum/image/upload/v1753533533/Screenshot_2025-07-24_234725_kwmxx9_xzy7fg.png" width="1200" alt="Tech Stack Image">
 
 ## 📸 Screenshots
 
 ### Chat UI
 
-<img src="https://res.cloudinary.com/qntum/image/upload/v1753373774/Screenshot_2025-07-24_214520_ybdh27.png" alt="Chat screen" width="800"/>
+<img src="https://res.cloudinary.com/qntum/image/upload/v1753533282/Screenshot_2025-07-24_214520_ybdh27_ehpwur.png" alt="Chat screen" width="800"/>
 
 ### Mobile View
 
-<img src="https://res.cloudinary.com/qntum/image/upload/v1753376789/WhatsApp_Image_2025-07-24_at_10.36.13_PM_d3jlyh.jpg" alt="Mobile view" width="300"/>
+<img src="https://res.cloudinary.com/qntum/image/upload/v1753533319/WhatsApp_Image_2025-07-24_at_4.51.29_PM_bvcruo_wkg3ci.jpg" alt="Mobile view" width="300"/>
